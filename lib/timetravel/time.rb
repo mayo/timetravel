@@ -1,0 +1,1 @@
+require 'timetravel/time/interval'
